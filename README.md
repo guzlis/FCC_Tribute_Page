@@ -1,5 +1,9 @@
+LINK: https://guzlis.github.io/FCC_Tribute_Page/
+
 Tribute Page:
     This is the second project of the Freecodedamp "Responsive Web Design" course.
+    
+    
 
 Objective:
     Build an app that is functionally similar to https://tribute-page.freecodecamp.rocks
